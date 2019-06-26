@@ -1,0 +1,1 @@
+include ':app', ':my_annotations', ':my_processor'
